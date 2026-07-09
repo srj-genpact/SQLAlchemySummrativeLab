@@ -1,0 +1,23 @@
+# Python Gitignore template
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.db
+*.sqlite
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# PDF assignment file (keep untracked)
+Python Assignment SQLAlchemySumLab.pdf
+
+# IDE settings
+.vscode/
+.idea/
+.gemini/
